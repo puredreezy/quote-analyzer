@@ -1,0 +1,5 @@
+# Ignore PDF and text files with sensitive data
+*.pdf
+*.txt
+# Ignore Python cache
+__pycache__/
