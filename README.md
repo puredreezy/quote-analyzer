@@ -1,8 +1,7 @@
 # Quote Analyzer Tools
-Tools to analyze quotes and supplier quotes.
+Tools to analyze supplier quotes.
 
 ## Projects
-- `quote_analyzer.py`: Analyzes a single quote for word count, top words, and sentiment.
 - `supplier_quote_analyzer.py`: Compares two supplier quotes from PDFs based on price, delivery, payment terms, warranty, and shipping cost, flagging potential issues.
 
 ## Setup
