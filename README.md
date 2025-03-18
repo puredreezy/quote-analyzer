@@ -1,4 +1,4 @@
-# Quote Analyzer Tools
+# Supplier Quote Analyzer Tool
 Tools to analyze supplier quotes.
 
 ## Projects
