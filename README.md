@@ -4,7 +4,7 @@
 - It scores each supplier quoation and then flags potential issues.
 - Then it finally selects the best supplier quotation. ;)
 
-Over the years, I normally build with a colleaguebut never show them on github. This time I want to also build my portfolio.
+Over the years, I build but never show them on github. This time I want to also graudally build my portfolio.
 
 ## Setup
 1. Install Python 3.13: [Download from python.org](https://www.python.org/downloads/)
